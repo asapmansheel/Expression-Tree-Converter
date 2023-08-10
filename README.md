@@ -1,4 +1,4 @@
-# Expression Tree Project
+# Expression Tree Converter
 
 This project demonstrates the conversion of infix expressions to postfix expressions and the creation of expression trees from postfix expressions. It includes classes for handling conversions and building expression trees, along with traversals to explore the trees.
 
